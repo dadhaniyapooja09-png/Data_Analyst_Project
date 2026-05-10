@@ -54,8 +54,4 @@ Enhance UI with advanced drill-through features
 🙋‍♀️ Author
 Pooja Dadhaniya
 Aspiring Data Analyst
-Skills: SQL, Advanced Excel, Power BI, Looker
-
-
-
-If you want, I can also make this more ATS-friendly for your resume or help you write a LinkedIn project post to showcase this dashboard 🚀
+Skills: SQL, Advanced Excel, Power BI, LookerLinkedIn project post to showcase this dashboard 🚀
