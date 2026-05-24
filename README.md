@@ -51,7 +51,4 @@ Include profit and cost analysis
 Enhance UI with advanced drill-through features
 
 
-🙋‍♀️ Author
-Pooja Dadhaniya
-Aspiring Data Analyst
-Skills: SQL, Advanced Excel, Power BI, LookerLinkedIn project post to showcase this dashboard 🚀
+Skills: SQL, Advanced Excel, Power BI, Looker
